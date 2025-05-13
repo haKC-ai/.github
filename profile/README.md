@@ -55,16 +55,15 @@
 
 ---
 
-###  Talks
-
-[`Talks Repo`](https://github.com/haKC-ai/talks)
-
-<img width="1130" alt="Screenshot 2025-05-13 at 4 34 32 PM" src="https://github.com/user-attachments/assets/edb7a8df-ea02-4e03-a013-0cee781af8c6" />
+###  Talks [`Talks Repo`](https://github.com/haKC-ai/talks)
 
 #### `2022` – [hackGPT v23](https://github.com/haKC-ai/talks/blob/main/2022-hackGPT/2023-hackGPTv23.pdf)
-<img width="1088" alt="Screenshot 2025-05-13 at 4 35 25 PM" src="https://github.com/user-attachments/assets/4df478d0-dc34-46f7-95ef-0ddaf220b9fc" />
+<img width="1130" alt="Screenshot 2025-05-13 at 4 34 32 PM" src="https://github.com/user-attachments/assets/edb7a8df-ea02-4e03-a013-0cee781af8c6" />
 
 #### `2025` – [The Only Winning Move](https://github.com/haKC-ai/talks/blob/main/2025-TheOnlyWinningMove/2025-TheOnlyWinningMove.pdf)
+<img width="1088" alt="Screenshot 2025-05-13 at 4 35 25 PM" src="https://github.com/user-attachments/assets/4df478d0-dc34-46f7-95ef-0ddaf220b9fc" />
+
+
 
 ---
 
