@@ -45,6 +45,8 @@
 #### `2025` – [The Only Winning Move](https://github.com/haKC-ai/talks/blob/main/2025-TheOnlyWinningMove/2025-TheOnlyWinningMove.pdf)
 <img width="1088" alt="Screenshot 2025-05-13 at 4 35 25 PM" src="https://github.com/user-attachments/assets/4df478d0-dc34-46f7-95ef-0ddaf220b9fc" />
 
+![guess](https://github.com/user-attachments/assets/2e67c7b2-3f8a-4847-9c43-a40132d5f26b)
+
 ---
 
 ### Repos
